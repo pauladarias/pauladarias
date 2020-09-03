@@ -17,9 +17,12 @@ Find out more about my experience and aspirations over on my [website](https://w
 ## What I've been working in: 
 
 [![JavaScript Commits](https://img.shields.io/badge/JavaScript-737%20commits-yellow.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
-[![React Commits](https://img.shields.io/badge/React-680%20commits-brown.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
+[![React Commits](https://img.shields.io/badge/React-680%20commits-blue.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
+[![Ruby Commits](https://img.shields.io/badge/Ruby-680%20commits-brown.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
 [![CSS Commits](https://img.shields.io/badge/CSS-653%20commits-blueviolet.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
 [![HTML Commits](https://img.shields.io/badge/HTML-364%20commits-red.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
+[![SQL Commits](https://img.shields.io/badge/SQL-48%20commits-lightgrey.svg?style=flat-square)](https://sourcerer.io/pauldarias)
+
 
 
 ## Find me here:
