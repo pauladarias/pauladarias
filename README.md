@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**pauladarias/pauladarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paula, a [Maker](https://makers.tech/) and junior front-end developer. Since I finished Makers I've been working on my own projects, learning React and improving my design skills building animations and UI effects.  
 
-Here are some ideas to get you started:
+Find out more about my experience and aspirations over on my [website](https://www.pauladarias.com/index.html) or scroll down to check-out some of my favourite projects. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## More about me: 
+
+- 🌱 **I’m currently learning...** React and UI effects
+- 🔭 **At the moment I'm working on...** finding my first role as Junior Front End developer
+- 💬 **Ask me about ...** switching careers 🥵
+- 📫 **How to reach me: ...** email me at pauladarias@gmail.com
+- 😄 **Pronouns:** she / her
+- ⚡ **Fun fact: ...** I love playing drums 🥁
 -->
+
+## What I've been working in: 
+
+[![JavaScript Commits](https://img.shields.io/badge/JavaScript-737%20commits-yellow.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
+[![React Commits](https://img.shields.io/badge/React-680%20commits-brown.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
+[![CSS Commits](https://img.shields.io/badge/CSS-653%20commits-blueviolet.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
+[![HTML Commits](https://img.shields.io/badge/HTML-364%20commits-red.svg?style=flat-square)](https://sourcerer.io/pauladarias) 
+
+
+## Find me here:
+
+[![Linkedin profile](https://img.shields.io/badge/Linkedin-Liz%20Daly-0077B5?style=social&logo=linkedin&?labelColor=fff)](www.linkedin.com/in/paula-darias-a10317117) *to get in touch about work opportunities* 💻 💼
+  
+
+## Projects:
+👇 Just right below 👇
