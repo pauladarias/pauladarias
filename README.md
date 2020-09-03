@@ -11,7 +11,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 - 💬 **Ask me about ...** switching careers 🥵
 - 📫 **How to reach me: ...** email me at pauladarias@gmail.com
 - 💃🏻 **Pronouns:** she / her
-- ⚡ **Fun fact: ...** I love playing drums 🥁
+- ⚡ **Fun fact: ...** I play drums in a punk band 🥁
 
 
 ## What I've been working in: 
