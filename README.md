@@ -10,7 +10,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 - 🔭 **At the moment I'm working on...** finding my first role as Junior Front End developer, building small projects on my own and optimising my website
 - 💬 **Ask me about ...** switching careers 🥵
 - 📫 **How to reach me: ...** email me at pauladarias@gmail.com
-- 😄 **Pronouns:** she / her
+- 💃🏻 **Pronouns:** she / her
 - ⚡ **Fun fact: ...** I love playing drums 🥁
 
 
