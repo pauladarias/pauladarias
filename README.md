@@ -7,7 +7,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 ## More about me: 
 
 - 🌱 **I’m currently learning...** React and UI effects
-- 🔭 **At the moment I'm working on...** finding my first role as Junior Front End developer
+- 🔭 **At the moment I'm working on...** finding my first role as Junior Front End developer, building small projects on my own and optimising my website
 - 💬 **Ask me about ...** switching careers 🥵
 - 📫 **How to reach me: ...** email me at pauladarias@gmail.com
 - 😄 **Pronouns:** she / her
@@ -24,7 +24,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 
 ## Find me here:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/paula-darias-a10317117) *to get in touch about work opportunities* 💻 💼
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Paula Darias](www.linkedin.com/in/paula-darias-a10317117)  💻 *to get in touch about work opportunities*💼
   
 
 ## Projects:
