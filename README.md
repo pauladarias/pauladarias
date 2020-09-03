@@ -12,7 +12,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 - 📫 **How to reach me: ...** email me at pauladarias@gmail.com
 - 😄 **Pronouns:** she / her
 - ⚡ **Fun fact: ...** I love playing drums 🥁
--->
+
 
 ## What I've been working in: 
 
@@ -24,7 +24,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 
 ## Find me here:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Paula Darias](www.linkedin.com/in/paula-darias-a10317117)  💻 *to get in touch about work opportunities*💼
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Paula Darias](www.linkedin.com/in/paula-darias-a10317117)  💻 *to get in touch about work opportunities* 💼
   
 
 ## Projects:
