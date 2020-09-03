@@ -24,7 +24,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 
 ## Find me here:
 
-[![Linkedin profile](https://img.shields.io/badge/Linkedin-Liz%20Daly-0077B5?style=social&logo=linkedin&?labelColor=fff)](www.linkedin.com/in/paula-darias-a10317117) *to get in touch about work opportunities* 💻 💼
+[![Linkedin profile](https://img.shields.io/badge/JavaScript-737%20commits-blue.svg?style=flat-square)](www.linkedin.com/in/paula-darias-a10317117) *to get in touch about work opportunities* 💻 💼
   
 
 ## Projects:
