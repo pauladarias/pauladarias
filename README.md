@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi  👋
 
 I'm Paula, a [Maker](https://makers.tech/) and junior front-end developer. Since I finished Makers I've been working on my own projects, learning React and improving my design skills building animations and UI effects.  
 
