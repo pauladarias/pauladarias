@@ -6,7 +6,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 
 ## More about me: 
 
-- 🌱 **I’m currently learning...** React and UI effects
+- 🌱 **I’m currently learning...** React and building UI effects
 - 🔭 **At the moment I'm working on...** finding my first role as Junior Front End developer, building small projects on my own and optimising my website
 - 💬 **Ask me about ...** switching careers 🥵
 - 📫 **How to reach me: ...** email me at pauladarias@gmail.com
