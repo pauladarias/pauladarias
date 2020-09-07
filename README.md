@@ -30,6 +30,7 @@ Find out more about my experience and aspirations over on my [website](https://w
   <a href="https://www.linkedin.com/in/paula-darias-a10317117/">
   <img src="https://github.com/pauladarias/CV/blob/master/images%20/linkedin_logo.png" alt="linkedin" width="5%"/a>  
   </br>
+  </br>
   💻 to get in touch about work opportunities 💼
   
 
