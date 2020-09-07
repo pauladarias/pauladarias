@@ -9,7 +9,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 - 🌱 **I’m currently learning...** React and building UI effects
 - 🔭 **At the moment I'm working on...** finding my first role as Junior Front End developer, building small projects on my own and optimising my website
 - 💬 **Ask me about ...** switching careers 🥵
-- 📫 **How to reach me: ...** email me at pauladarias@gmail.com
+- 📫 **How to reach me: ...** visit my website pauladarias@gmail.com or email me at pauladarias@gmail.com 
 - 💃🏻 **Pronouns:** she / her
 - ⚡ **Fun fact: ...** I play drums in a punk band 🥁
 
