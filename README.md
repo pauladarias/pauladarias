@@ -1,15 +1,15 @@
 ### Hi  👋
 
-I'm Paula, a [Maker](https://makers.tech/) and junior front-end developer. Since I finished Makers I've been working on my own projects, learning React and improving my design skills building animations and UI effects.  
+I'm Paula, a [Maker](https://makers.tech/) and Product Designer. Since I finished Makers I've been working on my own projects, learning React and improving my design skills building animations and UI effects, studied UI/UX Design at [DesignLab](https://trydesignlab.com/) and worked as a Product Design freelancer.   
 
-Find out more about my experience and aspirations over on my [website](https://www.pauladarias.com/index.html) or scroll down to check-out some of my favourite projects. ✨
+Find out more about my experience and aspirations over on my [website](https://www.pdarias.com/) or scroll down to check-out some of my favourite projects. ✨
 
 ## More about me: 
 
-- 🌱 **I’m currently learning...** React and building UI effects
-- 🔭 **At the moment I'm working on...** finding my first role as Junior Front End developer, building small projects on my own and optimising my website
+- 🌱 **I’m currently learning...** Motion Design
+- 🔭 **At the moment I'm working at...** [WhoCanFixMyCar.com](https://www.whocanfixmycar.com/)
 - 💬 **Ask me about ...** switching careers 🥵
-- 📫 **How to reach me: ...** visit my website [pauladarias](www.pauladarias.com) or email me at pauladarias@gmail.com 
+- 📫 **How to reach me: ...** visit my website [pauladarias](https://www.pdarias.com/ or email me at pauladarias@gmail.com 
 - 💃🏻 **Pronouns:** she / her
 - ⚡ **Fun fact: ...** I play drums in a punk band 🥁
 
