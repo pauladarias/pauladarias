@@ -2,7 +2,7 @@
 
 I'm Paula, a [Maker](https://makers.tech/) and Product Designer. Since I finished Makers I've been working on my own projects, learning React and improving my design skills building animations and UI effects, studied UI/UX Design at [DesignLab](https://trydesignlab.com/) and worked as a Product Design freelancer.   
 
-Find out more about my experience and aspirations over on my [website](https://www.pdarias.com/) or scroll down to check-out some of my favourite projects. ✨
+Find out more about my experience and aspirations over on my [website](https://www.pauladarias.design/) or scroll down to check-out some of my favourite projects. ✨
 
 ## More about me: 
 
