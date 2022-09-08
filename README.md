@@ -8,8 +8,8 @@ Find out more about my experience and aspirations over on my [website](https://w
 
 - 🌱 **I’m currently learning...** Motion Design
 - 🔭 **At the moment I'm working at...** [WhoCanFixMyCar.com](https://www.whocanfixmycar.com/)
-- 💬 **Ask me about ...** switching careers 🥵
-- 📫 **How to reach me: ...** visit my website [pauladarias](https://www.pdarias.com/) or email me at pauladarias@gmail.com 
+- 💬 **Ask me about ...** how I kill my plants 🌵
+- 📫 **How to reach me: ...** visit my website [pauladarias](https://www.pauladarias.design/) or email me at pauladarias@gmail.com 
 - 💃🏻 **Pronouns:** she / her
 - ⚡ **Fun fact: ...** I play drums in a punk band 🥁
 
