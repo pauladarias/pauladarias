@@ -7,7 +7,7 @@ Find out more about my experience and aspirations over on my [website](https://w
 ## More about me: 
 
 - 🌱 **I’m currently learning...** Motion Design
-- 🔭 **At the moment I'm working at...** [WhoCanFixMyCar.com](https://www.whocanfixmycar.com/)
+- 🔭 **At the moment I'm working at...** [xDesign](https://www.xdesign.com/)
 - 💬 **Ask me about ...** how I kill my plants 🌵
 - 📫 **How to reach me: ...** visit my website [pauladarias](https://www.pauladarias.design/) or email me at pauladarias@gmail.com 
 - 💃🏻 **Pronouns:** she / her
