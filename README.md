@@ -1,15 +1,15 @@
 ### Hi  👋
 
-I'm Paula, a [Maker](https://makers.tech/) and Product Designer. Since I finished Makers I've been working on my own projects, learning React and improving my design skills building animations and UI effects, studied UI/UX Design at [DesignLab](https://trydesignlab.com/) and worked as a Product Design freelancer.   
+I'm Paula, a Front-end Developer and Product Designer. Since becoming a Product Designer, I have been working on my own projects and improving my design skills. Specifically, I have been improving my React skills and building animations and UI effects. I'm currently working at [xDesign](https://www.xdesign.com/)🆇
 
-Find out more about my experience and aspirations over on my [website](https://www.pauladarias.design/) or scroll down to check-out some of my favourite projects. ✨
+Find out more about my experience and aspirations over on my [website](https://pauladarias.webflow.io/) (Please forgive the unprofessional URL, I am currently updating my case studies 💀) you can also scroll down to check-out some of my favourite projects. ✨
 
 ## More about me: 
 
 - 🌱 **I’m currently learning...** Motion Design
 - 🔭 **At the moment I'm working at...** [xDesign](https://www.xdesign.com/)
 - 💬 **Ask me about ...** how I kill my plants 🌵
-- 📫 **How to reach me: ...** visit my website [pauladarias](https://www.pauladarias.design/) or email me at pauladarias@gmail.com 
+- 📫 **How to reach me: ...** visit my website [pauladarias](https://pauladarias.webflow.io/) or email me at pauladarias@gmail.com 
 - 💃🏻 **Pronouns:** she / her
 - ⚡ **Fun fact: ...** I play drums in a punk band 🥁
 
